@@ -45,6 +45,6 @@ if __name__ == '__main__':
         print(jk)
     # elif "music" in data1:
     #     text_to_sp(data1)
-    #     add = "D:\SONG"
+    #     add = "music_DIR"
     #     listsong = os.listdir(add)
     #     os.startfile(os.path.join(add, listsong[180]))
